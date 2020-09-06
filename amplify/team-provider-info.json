@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-inderful-dev-11553-authRole",
+      "UnauthRoleArn": "arn:aws:iam::512794413931:role/amplify-inderful-dev-11553-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::512794413931:role/amplify-inderful-dev-11553-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-inderful-dev-11553-deployment",
+      "UnauthRoleName": "amplify-inderful-dev-11553-unauthRole",
+      "StackName": "amplify-inderful-dev-11553",
+      "StackId": "arn:aws:cloudformation:us-east-2:512794413931:stack/amplify-inderful-dev-11553/8297dc30-efde-11ea-812d-06dac584636a",
+      "AmplifyAppId": "d3q1xl5dem9q70"
+    },
+    "categories": {
+      "auth": {
+        "inderful8e7a7617": {}
+      }
+    }
+  }
+}
